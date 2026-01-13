@@ -93,7 +93,7 @@ This project was enhanced using **AI-powered tools**:
 
 ## Author
 
-**elbob**
+**Mohamed Ayoub Ben Ayed**
 
 ---
 
