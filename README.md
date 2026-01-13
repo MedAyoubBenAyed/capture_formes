@@ -21,7 +21,7 @@ It is written in Python and designed to be **modular, easy-to-run, and reproduci
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/YourUsername/TLBO-Project.git
+git clone https://github.com/elbob28/TLBO-Project.git
 cd TLBO-Project
 ```
 
